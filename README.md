@@ -102,10 +102,10 @@
   <a href="https://www.behance.net/kartiksable" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
   </a>
-  <a href="https://discord.com/daemon.777_" target="_blank">
+  <a href="https://discord.com/users/daemon.777_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://gmail.com/kartiksable5656@gmail.com" target="_blank">
+  <a href="mailto:kartiksable7777@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://instagram.com/kartiksable._" target="_blank">
