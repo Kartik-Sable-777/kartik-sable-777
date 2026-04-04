@@ -1,51 +1,50 @@
-# Hey What's up ?
+# Hey 👋 What's up ?
 
 <div align="right">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" style="width: 80%" />
 </div>
 
-### <div align="center">I'm Kartik Sable ,an aspiring Cloud Engineer currently learning and building hands-on projects.</div>
+### <div align="center">I'm Kartik Sable, an aspiring Cloud Engineer currently learning and building hands-on projects.</div>
 
-⚡ Built on caffeine, curiosity, and clean commits.  
-
+⚡ Built on caffeine, curiosity, and clean commits  
 🧠 From Python → Cloud → DevOps (future-focused learning path)  
-
 🌩️ Turning ideas into scalable systems  
-
 💭 Fun fact: I use tabs over spaces  
-
 🌱 Currently learning DevOps & Cloud  
 
----
+<br/>
 
-# 🚀 Tech Stack  
+## 🚀 Tech Stack  
 <div align="center">
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,react,nodejs,express,flask,django,mongodb,redis,git,figma,tailwind&titles=true" />
-
 </div>
 
----
+<br/>
 
-# ☁️ Cloud & DevOps (Currently Learning)  
+## ☁️ Cloud & DevOps (Currently Learning)  
 <div align="center">
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,linux,aws,azure,gcp,kubernetes,terraform,jenkins,bash,gitlab&titles=true" />
-
 </div>
 
----
+<br/>
 
-# 🧩 Additional Tools  
+## 🧩 Additional Tools  
 <div align="center">
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,latex,wordpress,oracle,pbi,r,powershell&titles=true" />
-
 </div>
 
----
+<br/>
 
-# 🔗 Connect with me  
+## 🎯 Current Focus  
+
+🌩️ Learning Cloud Computing (AWS, Azure, GCP)  
+⚙️ Exploring DevOps tools (Docker, Kubernetes, CI/CD)  
+📈 Building real-world cloud-based projects  
+🧠 Strengthening system design and backend fundamentals  
+
+<br/>
+
+## 🔗 Connect with me  
 <div align="center">
 
 <a href="https://github.com/Kartik-Sable-777">
@@ -82,23 +81,30 @@
 
 </div>
 
----
+<br/>
 
-# 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="50%" />
+  <img src="profile-3d-city.svg" alt="3D City" width="60%" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kartik-Sable-777&show_icons=true&theme=tokyonight" />
 </div>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kartik-Sable-777&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
