@@ -1,7 +1,7 @@
 # Hey 👋 What's up ?
 
 <div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" style="width: 80%" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" style="width: 60%" />
 </div>
 
 ### <div align="center">I'm Kartik Sable, an aspiring Cloud Engineer currently learning and building hands-on projects.</div>
