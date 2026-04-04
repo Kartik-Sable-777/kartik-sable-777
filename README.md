@@ -1,7 +1,9 @@
 
 
 ### Hey 👋 What's up ?  
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="left" style="width: 100%" />  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="center" style="width: 100%" />
+</div>  
   
 
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
