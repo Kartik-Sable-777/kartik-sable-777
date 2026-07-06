@@ -21,26 +21,10 @@
 
 <br/>
 
-## ☁️ Cloud & DevOps (Currently Learning)  
-<div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,linux,aws,azure,gcp,kubernetes,terraform,jenkins,bash,gitlab&titles=true" />
-</div>
-
-<br/>
-
 ## 🧩 Additional Tools  
 <div align="center">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,latex,wordpress,oracle,pbi,r,powershell&titles=true" />
 </div>
-
-<br/>
-
-## 🎯 Current Focus  
-
-🌩️ Learning Cloud Computing (AWS, Azure, GCP)  
-⚙️ Exploring DevOps tools (Docker, Kubernetes, CI/CD)  
-📈 Building real-world cloud-based projects  
-🧠 Strengthening system design and backend fundamentals  
 
 <br/>
 
