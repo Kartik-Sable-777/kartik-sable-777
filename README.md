@@ -6,8 +6,7 @@
 
 ### <div align="center">I'm Kartik Sable, an aspiring Cloud Engineer currently learning and building hands-on projects.</div>
 
-⚡ Built on caffeine, curiosity, and clean commits  
-🧠 From Python → Cloud → DevOps (future-focused learning path)  
+⚡ Built on caffeine, curiosity, and clean commits
 🌩️ Turning ideas into scalable systems  
 💭 Fun fact: I use tabs over spaces  
 🌱 Currently learning DevOps & Cloud  
